@@ -10,6 +10,10 @@
 <p>Fluent Validator</p>
 <p>Notification Patter</p>
 <p>Repository Patter</p>
+<p>HealtCheck Para medir a saude da aplicação</p>
+<p>Gerencimento de Logs com Elmah</p>
+
+
 
 
 
